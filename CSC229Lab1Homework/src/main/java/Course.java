@@ -51,7 +51,8 @@ public class Course {
 
 
     //this is the default constructor which is used when an object is created from this class without any parameters
-    public Course(){}
+    public Course()
+    {}//these Brackets are empty because I am not setting anything within my default constructor
 
     //here I am overloading the default constructor by giving it three parameters so that I can create my object with
     //values already set for each of these variables so that I can update them
